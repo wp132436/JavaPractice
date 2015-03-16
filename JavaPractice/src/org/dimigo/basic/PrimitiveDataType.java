@@ -3,6 +3,8 @@ package org.dimigo.basic;
 public class PrimitiveDataType {
 
 	public static void main(String[] args) {
+		//코드 수정전
+		//코드 수정 후
 		String name = "아이유";
 		boolean tjdquf;
 		tjdquf = true;
