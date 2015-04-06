@@ -14,8 +14,7 @@ public class Operator {
 		
 		System.out.println("<< 도형 넓이 비교 >>");
 		System.out.println("사다리꼴의 넓이: " +  auswjr);
-		System.out.println("평행사변형의 넓이 : " + auswjr2);
-		
+		System.out.println("평행사변형의 넓이 : " + auswjr2);		
 		System.out.println("\n사다리꼴이 평행사변형 보다 " + ckdl + "더 큽니다");
 
 	}
