@@ -15,7 +15,7 @@ package org.dimigo.inheritence;
  * @author			: 황진영
  * @version			: 1.0
  */
-public class Rectengle extends figure{
+public class Rectengle extends Figure{
 	
 	int width;
 	int height;

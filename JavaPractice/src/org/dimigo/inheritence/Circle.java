@@ -15,7 +15,7 @@ package org.dimigo.inheritence;
  * @author			: 황진영
  * @version			: 1.0
  */
-public class Circle extends figure{
+public class Circle extends Figure{
 	
 	/**
 	 * @param centerX
